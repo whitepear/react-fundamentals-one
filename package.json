@@ -1,0 +1,31 @@
+{
+  "name": "fundamentals_one",
+  "version": "1.0.0",
+  "description": "Tutorial work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitepear/react_fundamentals_one.git"
+  },
+  "keywords": [
+    "tutorial",
+    "react",
+    "novice"
+  ],
+  "author": "whitepear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitepear/react_fundamentals_one/issues"
+  },
+  "homepage": "https://github.com/whitepear/react_fundamentals_one#readme",
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.11.1",
+    "html-webpack-plugin": "^2.22.0",
+    "webpack": "^1.13.1"
+  }
+}
